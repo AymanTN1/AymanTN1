@@ -48,18 +48,25 @@
 
 <br>
 
-### 🚀 Ce que je propose (What I Offer)
-* ⚙️ **Architecture End-to-End :** Développement de plateformes complètes, des microservices Backend (Spring Boot, FastAPI) aux interfaces Frontend fluides.
-* 🧠 **Solutions d'IA Intégrées :** Architectures d'aide à la décision et implémentation de systèmes RAG Multi-Agents.
-* 🔒 **Sécurité & Fiabilité :** Mise en place de pipelines CI/CD automatisés, conteneurisation Docker, et sensibilisation à la cybersécurité réseau.
-* 🤝 **Esprit d'équipe :** Gestion de projets structurée (Scrum, UML, Merise) et forte adaptabilité.
+---
 
-### 🏆 Accomplissements Récents
-* 🥇 **1ère Place au Hackathon Code212Prize** avec le projet *NeuralConsult Sevrage* (Écosystème HealthTech avec IA).
+### 🚀 What I Offer
 
-<br>
+* ✅ **End-to-end project management :** Développement de plateformes complètes, des microservices Backend aux interfaces Frontend.
+* 🧼 **Clean, maintainable code :** Respect des bonnes pratiques, pipelines automatisés et intégration de modèles IA.
+* 📭 **Reliable communication :** Esprit d'équipe, gestion de projets structurée (Scrum) et forte adaptabilité.
+* 📈 **Real business-focused results :** Optimisation de systèmes d'information et résolution de problèmes complexes.
 
-### 📈 GitHub Stats
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AymanTN1&show_icons=true&theme=radical&hide_border=true" alt="Ayman's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanTN1&layout=compact&theme=radical&hide_border=true" alt="Ayman's Top Languages" />
 </p>
+
+---
+
+### 🔗 Let's Connect
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/aymantantani)
