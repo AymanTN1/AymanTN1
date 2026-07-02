@@ -62,7 +62,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AymanTN1&show_icons=true&theme=radical" alt="Ayman's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AymanTN1&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Ayman's GitHub Stats" />
   <br />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AymanTN1&layout=compact&theme=radical" alt="Ayman's Top Languages" />
 </p>
