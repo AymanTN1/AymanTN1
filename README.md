@@ -62,7 +62,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanTN1&layout=compact&theme=radical&hide_border=true" alt="Ayman's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AymanTN1&layout=compact&theme=radical&hide_border=true" alt="Ayman's Top Languages" />
 </p>
 
 ---
